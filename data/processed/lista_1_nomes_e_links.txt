@@ -1,0 +1,12 @@
+1 Alicina https://pubchem.ncbi.nlm.nih.gov/compound/Allicin
+2 Anatoxina A https://pubchem.ncbi.nlm.nih.gov/compound/3034748
+3 Bicuculline https://pubchem.ncbi.nlm.nih.gov/compound/Bicuculline
+4 Beta-caroteno https://pubchem.ncbi.nlm.nih.gov/compound/Beta-Carotene 
+5 Alpha-Chaconine https://pubchem.ncbi.nlm.nih.gov/compound/442971
+6 Galantamine https://pubchem.ncbi.nlm.nih.gov/compound/Galantamine
+7 Huperzine A https://pubchem.ncbi.nlm.nih.gov/compound/huperazine-A
+8 Medicarpin https://pubchem.ncbi.nlm.nih.gov/compound/Demethylhomopterocarpin
+9 Schisandrin https://pubchem.ncbi.nlm.nih.gov/compound/Demethylhomopterocarpinv
+10 Silymarin https://pubchem.ncbi.nlm.nih.gov/compound/Silymarin
+11 Sparteine https://pubchem.ncbi.nlm.nih.gov/compound/Esparteina
+12 Estricnina https://pubchem.ncbi.nlm.nih.gov/compound/Strychnine

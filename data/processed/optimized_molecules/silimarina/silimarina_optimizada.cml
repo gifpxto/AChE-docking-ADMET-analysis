@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<molecule xmlns="http://www.xml-cml.org/schema" xmlns:cml="http://www.xml-cml.org/dict/cml" xmlns:units="http://www.xml-cml.org/units/units" xmlns:xsd="http://www.w3c.org/2001/XMLSchema" xmlns:iupac="http://www.iupac.org">
+  <name>5213</name>
+  <atomArray>
+    <atom id="a1" elementType="O" x3="2.14058" y3="-0.111088" z3="0.514032" />
+    <atom id="a2" elementType="O" x3="2.31511" y3="-2.85143" z3="0.047672" />
+    <atom id="a3" elementType="O" x3="-3.61825" y3="-0.652389" z3="0.669231" />
+    <atom id="a4" elementType="O" x3="-2.49718" y3="0.110408" z3="-2.73752" />
+    <atom id="a5" elementType="O" x3="4.92631" y3="-3.88808" z3="-0.700405" />
+    <atom id="a6" elementType="O" x3="-5.12816" y3="0.710966" z3="-2.83582" />
+    <atom id="a7" elementType="O" x3="-7.43485" y3="1.47592" z3="-1.45312" />
+    <atom id="a8" elementType="O" x3="6.3498" y3="2.16647" z3="-1.54452" />
+    <atom id="a9" elementType="O" x3="-7.51815" y3="0.444551" z3="3.17405" />
+    <atom id="a10" elementType="O" x3="7.77165" y3="2.71509" z3="0.846186" />
+    <atom id="a11" elementType="C" x3="3.33499" y3="-0.82746" z3="0.916727" />
+    <atom id="a12" elementType="C" x3="3.51145" y3="-2.03393" z3="-0.039721" />
+    <atom id="a13" elementType="C" x3="-2.69851" y3="-0.181557" z3="-0.337201" />
+    <atom id="a14" elementType="C" x3="-1.37579" y3="-0.914765" z3="-0.186052" />
+    <atom id="a15" elementType="C" x3="-3.35885" y3="-0.392179" z3="-1.71234" />
+    <atom id="a16" elementType="C" x3="1.00278" y3="-0.837919" z3="0.215417" />
+    <atom id="a17" elementType="C" x3="1.08674" y3="-2.21809" z3="-0.003837" />
+    <atom id="a18" elementType="C" x3="4.50572" y3="0.139966" z3="0.889856" />
+    <atom id="a19" elementType="C" x3="-0.221833" y3="-0.187971" z3="0.109828" />
+    <atom id="a20" elementType="C" x3="4.7402" y3="-2.89708" z3="0.310433" />
+    <atom id="a21" elementType="C" x3="-1.29579" y3="-2.30069" z3="-0.356298" />
+    <atom id="a22" elementType="C" x3="-4.71169" y3="0.299338" z3="-1.76859" />
+    <atom id="a23" elementType="C" x3="-0.065797" y3="-2.9511" z3="-0.271614" />
+    <atom id="a24" elementType="C" x3="-5.49249" y3="0.377177" z3="-0.474751" />
+    <atom id="a25" elementType="C" x3="-4.89965" y3="-0.13746" z3="0.691153" />
+    <atom id="a26" elementType="C" x3="4.89015" y3="0.753407" z3="-0.304025" />
+    <atom id="a27" elementType="C" x3="5.21373" y3="0.409204" z3="2.06126" />
+    <atom id="a28" elementType="C" x3="-6.78316" y3="0.93538" z3="-0.380692" />
+    <atom id="a29" elementType="C" x3="-5.57812" y3="-0.124261" z3="1.90711" />
+    <atom id="a30" elementType="C" x3="5.9939" y3="1.60146" z3="-0.336884" />
+    <atom id="a31" elementType="C" x3="6.30254" y3="1.27703" z3="2.03803" />
+    <atom id="a32" elementType="C" x3="-6.85491" y3="0.420648" z3="1.98434" />
+    <atom id="a33" elementType="C" x3="-7.45018" y3="0.95223" z3="0.844444" />
+    <atom id="a34" elementType="C" x3="6.70026" y3="1.87156" z3="0.841455" />
+    <atom id="a35" elementType="C" x3="7.58807" y3="1.78761" z3="-2.18673" />
+    <atom id="a36" elementType="H" x3="3.17179" y3="-1.20738" z3="1.92983" />
+    <atom id="a37" elementType="H" x3="3.60024" y3="-1.66661" z3="-1.06617" />
+    <atom id="a38" elementType="H" x3="-2.55186" y3="0.892239" z3="-0.182162" />
+    <atom id="a39" elementType="H" x3="-3.54537" y3="-1.45654" z3="-1.87635" />
+    <atom id="a40" elementType="H" x3="-0.271858" y3="0.888336" z3="0.25477" />
+    <atom id="a41" elementType="H" x3="4.5957" y3="-3.38078" z3="1.28023" />
+    <atom id="a42" elementType="H" x3="5.63397" y3="-2.26946" z3="0.355995" />
+    <atom id="a43" elementType="H" x3="-2.1918" y3="-2.87807" z3="-0.56991" />
+    <atom id="a44" elementType="H" x3="-0.004253" y3="-4.0255" z3="-0.425172" />
+    <atom id="a45" elementType="H" x3="4.33501" y3="0.563687" z3="-1.21943" />
+    <atom id="a46" elementType="H" x3="4.91847" y3="-0.055806" z3="2.9988" />
+    <atom id="a47" elementType="H" x3="-5.10347" y3="-0.529176" z3="2.79824" />
+    <atom id="a48" elementType="H" x3="-3.0072" y3="0.1013" z3="-3.5677" />
+    <atom id="a49" elementType="H" x3="6.84386" y3="1.48265" z3="2.95816" />
+    <atom id="a50" elementType="H" x3="-8.44673" y3="1.38293" z3="0.910502" />
+    <atom id="a51" elementType="H" x3="4.7587" y3="-3.4654" z3="-1.5628" />
+    <atom id="a52" elementType="H" x3="-8.2945" y3="1.8417" z3="-1.1762" />
+    <atom id="a53" elementType="H" x3="-8.3876" y3="0.865" z3="3.0521" />
+    <atom id="a54" elementType="H" x3="8.0433" y3="2.8755" z3="1.7645" />
+    <atom id="a55" elementType="H" x3="7.68048" y3="2.3374" z3="-3.12681" />
+    <atom id="a56" elementType="H" x3="7.57522" y3="0.713627" z3="-2.39056" />
+    <atom id="a57" elementType="H" x3="8.43439" y3="2.03145" z3="-1.53963" />
+  </atomArray>
+  <bondArray>
+    <bond atomRefs2="a1 a11" order="1" />
+    <bond atomRefs2="a1 a16" order="1" />
+    <bond atomRefs2="a2 a12" order="1" />
+    <bond atomRefs2="a2 a17" order="1" />
+    <bond atomRefs2="a3 a13" order="1" />
+    <bond atomRefs2="a3 a25" order="1" />
+    <bond atomRefs2="a4 a15" order="1" />
+    <bond atomRefs2="a4 a48" order="1" />
+    <bond atomRefs2="a5 a20" order="1" />
+    <bond atomRefs2="a5 a51" order="1" />
+    <bond atomRefs2="a6 a22" order="2" />
+    <bond atomRefs2="a7 a28" order="1" />
+    <bond atomRefs2="a7 a52" order="1" />
+    <bond atomRefs2="a8 a30" order="1" />
+    <bond atomRefs2="a8 a35" order="1" />
+    <bond atomRefs2="a9 a32" order="1" />
+    <bond atomRefs2="a9 a53" order="1" />
+    <bond atomRefs2="a10 a34" order="1" />
+    <bond atomRefs2="a10 a54" order="1" />
+    <bond atomRefs2="a11 a12" order="1" />
+    <bond atomRefs2="a11 a18" order="1" />
+    <bond atomRefs2="a11 a36" order="1" />
+    <bond atomRefs2="a12 a20" order="1" />
+    <bond atomRefs2="a12 a37" order="1" />
+    <bond atomRefs2="a13 a14" order="1" />
+    <bond atomRefs2="a13 a15" order="1" />
+    <bond atomRefs2="a13 a38" order="1" />
+    <bond atomRefs2="a14 a19" order="2" />
+    <bond atomRefs2="a14 a21" order="1" />
+    <bond atomRefs2="a15 a22" order="1" />
+    <bond atomRefs2="a15 a39" order="1" />
+    <bond atomRefs2="a16 a17" order="2" />
+    <bond atomRefs2="a16 a19" order="1" />
+    <bond atomRefs2="a17 a23" order="1" />
+    <bond atomRefs2="a18 a26" order="2" />
+    <bond atomRefs2="a18 a27" order="1" />
+    <bond atomRefs2="a19 a40" order="1" />
+    <bond atomRefs2="a20 a41" order="1" />
+    <bond atomRefs2="a20 a42" order="1" />
+    <bond atomRefs2="a21 a23" order="2" />
+    <bond atomRefs2="a21 a43" order="1" />
+    <bond atomRefs2="a22 a24" order="1" />
+    <bond atomRefs2="a23 a44" order="1" />
+    <bond atomRefs2="a24 a25" order="1" />
+    <bond atomRefs2="a24 a28" order="2" />
+    <bond atomRefs2="a25 a29" order="2" />
+    <bond atomRefs2="a26 a30" order="1" />
+    <bond atomRefs2="a26 a45" order="1" />
+    <bond atomRefs2="a27 a31" order="2" />
+    <bond atomRefs2="a27 a46" order="1" />
+    <bond atomRefs2="a28 a33" order="1" />
+    <bond atomRefs2="a29 a32" order="1" />
+    <bond atomRefs2="a29 a47" order="1" />
+    <bond atomRefs2="a30 a34" order="2" />
+    <bond atomRefs2="a31 a34" order="1" />
+    <bond atomRefs2="a31 a49" order="1" />
+    <bond atomRefs2="a32 a33" order="2" />
+    <bond atomRefs2="a33 a50" order="1" />
+    <bond atomRefs2="a35 a55" order="1" />
+    <bond atomRefs2="a35 a56" order="1" />
+    <bond atomRefs2="a35 a57" order="1" />
+  </bondArray>
+  <dataMap>
+    <scalar name="PUBCHEM_ATOM_DEF_STEREO_COUNT" dataType="xsd:string">0</scalar>
+    <scalar name="PUBCHEM_ATOM_UDEF_STEREO_COUNT" dataType="xsd:string">4</scalar>
+    <scalar name="PUBCHEM_BOND_DEF_STEREO_COUNT" dataType="xsd:string">0</scalar>
+    <scalar name="PUBCHEM_BOND_UDEF_STEREO_COUNT" dataType="xsd:string">0</scalar>
+    <scalar name="PUBCHEM_CACTVS_TAUTO_COUNT" dataType="xsd:string">117</scalar>
+    <scalar name="PUBCHEM_COMPONENT_COUNT" dataType="xsd:string">1</scalar>
+    <scalar name="PUBCHEM_COMPOUND_CID" dataType="xsd:string">5213</scalar>
+    <scalar name="PUBCHEM_CONFORMER_DIVERSEORDER" dataType="xsd:string">2
+388
+413
+116
+289
+327
+206
+249
+553
+27
+576
+832
+191
+93
+99
+1
+554
+624
+807
+131
+393
+12
+607
+225
+387
+475
+466
+265
+276
+232
+16
+357
+733
+7
+66
+80
+199
+90
+398
+374
+538
+33
+636
+791
+59
+318
+5
+432
+168
+24
+189
+298
+25
+105
+156
+175
+728
+38
+806
+323
+202
+701
+600
+685
+149
+226
+301
+136
+463
+419
+173
+407
+112
+20
+159
+32
+739
+258
+238
+287
+584
+449
+154
+638
+217
+46
+386
+349
+422
+35
+834
+36
+541
+563
+377
+148
+731
+270
+691
+450
+436
+153
+328
+640
+794
+263
+529
+325
+844
+518
+108
+230
+720
+734
+262
+52
+166
+174
+819
+41
+330
+344
+37
+74
+8
+778
+117
+128
+125
+42
+336
+435
+167
+22
+489
+100
+98
+87
+179
+260
+642
+54
+412
+363
+756
+214
+92
+586
+360
+31
+81
+95
+61
+227
+569
+150
+495
+89
+437
+53
+29
+211
+440
+313
+101
+836
+194
+163
+137
+371
+724
+44
+111
+309
+110
+658
+580
+30
+130
+140
+18
+851
+104
+597
+205
+411
+682
+51
+127
+709
+14
+97
+45
+304
+165
+94
+415
+82
+160
+47
+283
+6
+565
+208
+455
+55
+133
+522
+506
+513
+79
+224
+123
+769
+429
+11
+102
+107
+15
+542
+57
+155
+259
+75
+512
+62
+245
+721
+28
+567
+547
+39
+531
+9
+152
+502
+43
+723
+848
+58
+295
+420
+749
+212
+109
+13
+673
+210
+757
+609
+121
+19
+78
+617
+809
+17
+96
+516
+240
+637
+464
+10
+69
+246
+474
+358
+743
+414</scalar>
+    <scalar name="PUBCHEM_CONFORMER_ID" dataType="xsd:string">0000145D00000002</scalar>
+    <scalar name="PUBCHEM_CONFORMER_RMSD" dataType="xsd:string">1</scalar>
+    <scalar name="PUBCHEM_COORDINATE_TYPE" dataType="xsd:string">2
+5
+10</scalar>
+    <scalar name="PUBCHEM_EFFECTIVE_ROTOR_COUNT" dataType="xsd:string">5.4</scalar>
+    <scalar name="PUBCHEM_FEATURE_SELFOVERLAP" dataType="xsd:string">86.363</scalar>
+    <scalar name="PUBCHEM_HEAVY_ATOM_COUNT" dataType="xsd:string">35</scalar>
+    <scalar name="PUBCHEM_ISOTOPIC_ATOM_COUNT" dataType="xsd:string">0</scalar>
+    <scalar name="PUBCHEM_MMFF94_ENERGY" dataType="xsd:string">117.2913</scalar>
+    <scalar name="PUBCHEM_MMFF94_PARTIAL_CHARGES" dataType="xsd:string">48
+1 -0.36
+10 -0.53
+11 0.42
+12 0.28
+13 0.42
+14 -0.14
+15 0.34
+16 0.08
+17 0.08
+18 -0.14
+19 -0.15
+2 -0.36
+20 0.28
+21 -0.15
+22 0.42
+23 -0.15
+24 0.09
+25 0.08
+26 -0.15
+27 -0.15
+28 0.08
+29 -0.15
+3 -0.36
+30 0.08
+31 -0.15
+32 0.08
+33 -0.15
+34 0.08
+35 0.28
+4 -0.68
+40 0.15
+43 0.15
+44 0.15
+45 0.15
+46 0.15
+47 0.15
+48 0.4
+49 0.15
+5 -0.68
+50 0.15
+51 0.4
+52 0.45
+53 0.45
+54 0.45
+6 -0.57
+7 -0.53
+8 -0.36
+9 -0.53</scalar>
+    <scalar name="PUBCHEM_PHARMACOPHORE_FEATURES" dataType="xsd:string">17
+1 1 acceptor
+1 10 donor
+1 2 acceptor
+1 3 acceptor
+1 4 acceptor
+1 4 donor
+1 5 acceptor
+1 5 donor
+1 6 acceptor
+1 7 donor
+1 8 acceptor
+1 9 donor
+6 1 2 11 12 16 17 rings
+6 14 16 17 19 21 23 rings
+6 18 26 27 30 31 34 rings
+6 24 25 28 29 32 33 rings
+6 3 13 15 22 24 25 rings</scalar>
+    <scalar name="PUBCHEM_SHAPE_FINGERPRINT" dataType="xsd:string">10 15 17676488362850686641
+10319926 262 16443621290473820423
+10554248 39 18059284366605522630
+10906281 52 17775569736523020047
+11146346 171 17530977852298036954
+11273773 42 17775283889200777089
+11411753 29 17896606085358455294
+1200032 147 18410578401238142938
+12013929 112 15625401038183878649
+12098696 120 18260833705285766652
+12236239 1 17417801808941226527
+13383665 225 18042702765408451366
+13726171 33 17973733760184409056
+14118638 360 18200300134867411079
+14294032 229 18190468340430271566
+14840074 17 18131630063429704285
+14849402 71 18130788997185311865
+15081414 286 18410572877514333492
+15183329 4 15626229013156476157
+15188451 53 13695584472991852563
+15276724 80 18060417971974078177
+15326921 28 15070565404104283469
+15392192 104 18261969534577158259
+15519825 34 14851607729960717449
+15530120 55 15337694188570702320
+15685185 35 18129662048911017928
+1577012 14 17418094296102957387
+20105231 36 15697996384450799143
+21033648 29 17895470324597026047
+21033650 10 15482401897280676435
+21315764 119 15195573411386409124
+21344244 78 12324237287658676502
+21814621 53 17096634418705515353
+23081809 10 17489297565037231855
+23522609 53 17418101996720960545
+23576562 1 16558172930884099089
+249057 25 17202765882383910083
+25269216 80 16558462102267442485
+3504750 166 13046485533061306347
+3610482 184 17489584580463563703
+38570 142 17704080594312478035
+394071 54 18412543223747308968
+397830 11 16370719331576910104
+3986486 107 17346610707454934400
+4073 2 18409445912350749723
+4093350 32 17703799093834931166
+4112364 45 17896330275607301340
+4403749 210 18187081776751683115
+44317340 157 18411702063182291502
+49967989 163 16557884867421756053
+50009960 94 10661896614086570796
+504579 68 17346877840638505820
+504843 32 18340481274745009703
+5080951 261 16588295117326785763
+5104073 3 16878493528100585657
+5109719 28 17967538981869386480
+513532 50 15554152754166899274
+5364581 5 17385729153179414357
+5758199 1 18201441389471357363
+58083652 198 18269830931141032737
+59682541 52 16702031863983083836
+6201320 82 17058106394432526617
+6608658 132 16988848250711755417
+9953998 17 16443058388445631845
+9961470 85 17770771613682363208
+9962374 69 18269540664256601374</scalar>
+    <scalar name="PUBCHEM_SHAPE_MULTIPOLES" dataType="xsd:string">661.59
+24.52
+2.8
+2.25
+5.82
+2.24
+-0.23
+-19.22
+3.55
+-6.34
+-0.21
+2.46
+-1.21
+-0.02</scalar>
+    <scalar name="PUBCHEM_SHAPE_SELFOVERLAP" dataType="xsd:string">1473.353</scalar>
+    <scalar name="PUBCHEM_SHAPE_VOLUME" dataType="xsd:string">349.5</scalar>
+    <scalar name="fileName" dataType="xsd:string">/mnt/c/users/pichau/downloads/lista 1 Andreson-20250825T025544Z-1-001/lista 1 Andreson/silimarina_optimizada.cml</scalar>
+    <hdf5data name="modelView" dataType="xsd:double" ndims="2" dims="4 4">molecule/dataMap/modelView</hdf5data>
+    <scalar name="name" dataType="xsd:string">5213</scalar>
+    <hdf5data name="projection" dataType="xsd:double" ndims="2" dims="4 4">molecule/dataMap/projection</hdf5data>
+  </dataMap>
+</molecule>
