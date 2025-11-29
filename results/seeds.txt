@@ -1,0 +1,315 @@
+﻿Resumo de Seeds
+==============
+
+Molecula: 1 - Estricnina_
+  ligand_001: -1485190908
+  ligand_002: 70395625
+  ligand_003: -1159615296
+  ligand_004: -1333825643
+  ligand_005: 362538590
+  ligand_006: 204159330
+  ligand_007: 1720111710
+  ligand_008: 271499281
+  ligand_009: 676889384
+  ligand_010: -1259988363
+
+Molecula: 10  - Bicuculina_
+  ligand_001: 152897674
+  ligand_002: 553179996
+  ligand_003: -1259197089
+  ligand_004: 315207222
+  ligand_005: -846290028
+  ligand_006: 887867224
+  ligand_007: 427523695
+  ligand_008: -1797305662
+  ligand_009: -2022845728
+  ligand_010: -469543554
+
+Molecula: 10_rotenone
+  ligand_01: -477582236
+  ligand_02: -1961709019
+  ligand_03: 1926860911
+  ligand_04: 962599401
+  ligand_05: -2069033425
+  ligand_06: -935616355
+  ligand_07: -548694056
+  ligand_08: 1795832286
+  ligand_09: -752827086
+  ligand_10: -1553825653
+
+Molecula: 11 - Anatoxina A
+  ligand_001: -608894104
+  ligand_002: 619265455
+  ligand_003: 2125963123
+  ligand_004: -820724126
+  ligand_005: -136978673
+  ligand_006: 740089414
+  ligand_007: 978797475
+  ligand_008: -1007949577
+  ligand_009: -317290819
+  ligand_010: 491413676
+
+Molecula: 11_sanguilutine
+  ligand_01: 69026703
+  ligand_02: 1921413268
+  ligand_03: 985263868
+  ligand_04: 2122529660
+  ligand_05: 150111204
+  ligand_06: -254779807
+  ligand_07: 1778866976
+  ligand_08: -1545172716
+  ligand_09: -399051721
+  ligand_10: 518980008
+
+Molecula: 12 - Alicina_
+  ligand_001: -1657845006
+  ligand_002: -80992000
+  ligand_003: 674473627
+  ligand_004: 2081271354
+  ligand_005: -1789382060
+  ligand_006: 121726305
+  ligand_007: 1032258927
+  ligand_008: -1254827358
+  ligand_009: -1082140971
+  ligand_010: 1129270240
+
+Molecula: 12_sanguinarine
+  ligand_01: 208646523
+  ligand_02: 1974919309
+  ligand_03: -1451476117
+  ligand_04: -1471258995
+  ligand_05: 267127558
+  ligand_06: 257311523
+  ligand_07: -602627495
+  ligand_08: 1063344481
+  ligand_09: 1864269563
+  ligand_10: -1689554778
+
+Molecula: 13_sanguirubine
+  ligand_01: 1603198165
+  ligand_02: -1951619900
+  ligand_03: 2078425899
+  ligand_04: 1810607063
+  ligand_05: 903666394
+  ligand_06: -655617536
+  ligand_07: -7263563
+  ligand_08: 1190756957
+  ligand_09: -210532173
+  ligand_10: -418680288
+
+Molecula: 14_sarcophine
+  ligand_01: -800756370
+  ligand_02: -889081982
+  ligand_03: 347098221
+  ligand_04: 1114598254
+  ligand_05: 1560047757
+  ligand_06: 553356845
+  ligand_07: 402597544
+  ligand_08: 1724219069
+  ligand_09: -2070523556
+  ligand_10: -1074285422
+
+Molecula: 15_suberogorgin
+  ligand_01: -1258146628
+  ligand_02: -339065427
+  ligand_03: -1095551493
+  ligand_04: 2017022081
+  ligand_05: 506059693
+  ligand_06: 649898808
+  ligand_07: 608114898
+  ligand_08: -1186650957
+  ligand_09: 1494118926
+  ligand_10: 418036819
+
+Molecula: 1_berberine
+  ligand_01: -740132718
+  ligand_02: 1103693999
+  ligand_03: -1661286610
+  ligand_04: -953048076
+  ligand_05: -841231494
+  ligand_06: -551611980
+  ligand_07: -421783631
+  ligand_08: -60954129
+  ligand_09: 1897551393
+  ligand_10: -820814812
+
+Molecula: 2-Esparteina_
+  ligand_001: 1144313100
+  ligand_002: -1311444965
+  ligand_003: 2593387
+  ligand_004: -1500961728
+  ligand_005: 610582828
+  ligand_006: 349216055
+  ligand_007: -1416762635
+  ligand_008: -198073250
+  ligand_009: -694101813
+  ligand_010: -2022473294
+
+Molecula: 2_chelerythrine
+  ligand_01: 996362795
+  ligand_02: 1605577113
+  ligand_03: 1427518723
+  ligand_04: 158228817
+  ligand_05: -1776991031
+  ligand_06: -1348231130
+  ligand_07: 89025915
+  ligand_08: 2043506724
+  ligand_09: -936852737
+  ligand_10: -2118648878
+
+Molecula: 3- Silimarina_
+  ligand_001: 997658766
+  ligand_002: -2115352189
+  ligand_003: -1892056361
+  ligand_004: -696363815
+  ligand_005: 640118686
+  ligand_006: -1663517697
+  ligand_007: -1296957779
+  ligand_008: -2055215451
+  ligand_009: 857635808
+  ligand_010: -974196752
+
+Molecula: 3_chelilutine
+  ligand_01: -23673473
+  ligand_02: -604655408
+  ligand_03: -1724060166
+  ligand_04: 1771536441
+  ligand_05: 196176227
+  ligand_06: 179999961
+  ligand_07: 889800226
+  ligand_08: -221981646
+  ligand_09: 1333520018
+  ligand_10: -1037719542
+
+Molecula: 4 - Esquisandrina_
+  ligand_001: -482497004
+  ligand_002: -1565814600
+  ligand_003: 438125122
+  ligand_004: -1279908107
+  ligand_005: 1935690755
+  ligand_006: -921197121
+  ligand_007: 873877358
+  ligand_008: 1807517985
+  ligand_009: 1613145307
+  ligand_010: 1185815836
+
+Molecula: 4_chelirubine
+  ligand_01: -1580268459
+  ligand_02: 901117239
+  ligand_03: 490549436
+  ligand_04: -1990757220
+  ligand_05: 1126791485
+  ligand_06: 1906156521
+  ligand_07: 1166479599
+  ligand_08: 2056041220
+  ligand_09: 729784901
+  ligand_10: 556137216
+
+Molecula: 5_coptisine
+  ligand_01: -1052620713
+  ligand_02: -773713542
+  ligand_03: -1336937851
+  ligand_04: 621814123
+  ligand_05: 1150286402
+  ligand_06: -1220600860
+  ligand_07: -1901262324
+  ligand_08: 1995892279
+  ligand_09: 912485674
+  ligand_10: 717853556
+
+Molecula: 6 - Huperzina A_
+  ligand_001: -1069530183
+  ligand_002: -943149037
+  ligand_003: -643556919
+  ligand_004: -388055350
+  ligand_005: -1178586225
+  ligand_006: 1272715278
+  ligand_007: 1372150099
+  ligand_008: 616795500
+  ligand_009: 2025156631
+  ligand_010: -1752900783
+
+Molecula: 6_cytisine
+  ligand_01: 1052333334
+  ligand_02: 1857045418
+  ligand_03: -170650728
+  ligand_04: -1465667758
+  ligand_05: 1157640310
+  ligand_06: 1317858900
+  ligand_07: 2058897201
+  ligand_08: 1673213583
+  ligand_09: -1448048306
+  ligand_10: 418284545
+
+Molecula: 7 -Galantamina_
+  ligand_001: 350886651
+  ligand_002: 908950463
+  ligand_003: -2112409742
+  ligand_004: 756905458
+  ligand_005: -2064657720
+  ligand_006: -1778455148
+  ligand_007: -552385892
+  ligand_008: 1451382585
+  ligand_009: 418528477
+  ligand_010: -904226410
+
+Molecula: 7_galanthamine
+  ligand_01: 2068560501
+  ligand_02: -1103929240
+  ligand_03: 1604132653
+  ligand_04: -981453358
+  ligand_05: 1228513550
+  ligand_06: 2026427788
+  ligand_07: 811921865
+  ligand_08: 1861292380
+  ligand_09: 1606324708
+  ligand_10: -323596315
+
+Molecula: 8 - Chaconina_a
+  ligand_001: -1537489089
+  ligand_002: -568663473
+  ligand_003: 521793697
+  ligand_004: -1017812185
+  ligand_005: 2123520702
+  ligand_006: -799451108
+  ligand_007: 743337640
+  ligand_008: 1412626331
+  ligand_009: -1461077671
+  ligand_010: 1198939975
+
+Molecula: 8_isatin
+  ligand_01: -279991571
+  ligand_02: -1137244989
+  ligand_03: 1476290438
+  ligand_04: 1603061021
+  ligand_05: -1541249434
+  ligand_06: 1761649794
+  ligand_07: -1719635975
+  ligand_08: -1536935845
+  ligand_09: 288586157
+  ligand_10: -501312899
+
+Molecula: 9 - Caroteno_b
+  ligand_001: -1032055819
+  ligand_002: 872664946
+  ligand_003: -792166688
+  ligand_004: -242603111
+  ligand_005: -809304445
+  ligand_006: -1588645089
+  ligand_007: -2005822937
+  ligand_008: -982705913
+  ligand_009: 1426467904
+  ligand_010: -772480344
+
+Molecula: 9_protoberberine
+  ligand_01: -722475753
+  ligand_02: -3084430
+  ligand_03: -1072813312
+  ligand_04: -363562527
+  ligand_05: 973457544
+  ligand_06: -1750276937
+  ligand_07: 2119094856
+  ligand_08: -1225762489
+  ligand_09: -720474994
+  ligand_10: -1306533814
+

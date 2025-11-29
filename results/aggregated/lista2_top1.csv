@@ -1,0 +1,16 @@
+rank,score,molecule,path
+1,-10.821,5_coptisine,../lista_2/5_coptisine/docking/ligand_08/out.pdbqt
+2,-10.353,4_chelirubine,../lista_2/4_chelirubine/docking/ligand_04/out.pdbqt
+3,-10.349,12_sanguinarine,../lista_2/12_sanguinarine/docking/ligand_08/out.pdbqt
+4,-9.978,9_protoberberine,../lista_2/9_protoberberine/docking/ligand_04/out.pdbqt
+5,-9.567,3_chelilutine,../lista_2/3_chelilutine/docking/ligand_05/out.pdbqt
+6,-9.559,13_sanguirubine,../lista_2/13_sanguirubine/docking/ligand_01/out.pdbqt
+7,-9.549,2_chelerythrine,../lista_2/2_chelerythrine/docking/ligand_02/out.pdbqt
+8,-8.957,1_berberine,../lista_2/1_berberine/docking/ligand_05/out.pdbqt
+9,-8.804,7_galanthamine,../lista_2/7_galanthamine/docking/ligand_02/out.pdbqt
+10,-8.675,11_sanguilutine,../lista_2/11_sanguilutine/docking/ligand_03/out.pdbqt
+11,-8.537,14_sarcophine,../lista_2/14_sarcophine/docking/ligand_09/out.pdbqt
+12,-8.319,10_rotenone,../lista_2/10_rotenone/docking/ligand_02/out.pdbqt
+13,-7.294,6_cytisine,../lista_2/6_cytisine/docking/ligand_10/out.pdbqt
+14,-7.277,15_suberogorgin,../lista_2/15_suberogorgin/docking/ligand_06/out.pdbqt
+15,-6.924,8_isatin,../lista_2/8_isatin/docking/ligand_05/out.pdbqt

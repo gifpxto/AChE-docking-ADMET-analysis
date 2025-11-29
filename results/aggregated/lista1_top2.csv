@@ -1,0 +1,23 @@
+rank,score,molecule,path
+1,-9.396,10  - Bicuculina_,./10  - Bicuculina_/docking/ligand_003/out.pdbqt
+2,-9.393,10  - Bicuculina_,./10  - Bicuculina_/docking/ligand_009/out.pdbqt
+3,-9.281,9 - Caroteno_b,./9 - Caroteno_b/docking/ligand_004/out.pdbqt
+4,-9.243,9 - Caroteno_b,./9 - Caroteno_b/docking/ligand_007/out.pdbqt
+5,-9.119,6 - Huperzina A_,./6 - Huperzina A_/docking/ligand_001/out.pdbqt
+6,-9.088,6 - Huperzina A_,./6 - Huperzina A_/docking/ligand_002/out.pdbqt
+7,-8.965,8 - Chaconina_a,./8 - Chaconina_a/docking/ligand_004/out.pdbqt
+8,-8.952,8 - Chaconina_a,./8 - Chaconina_a/docking/ligand_009/out.pdbqt
+9,-8.925,3- Silimarina_,./3- Silimarina_/docking/ligand_007/out.pdbqt
+10,-8.922,3- Silimarina_,./3- Silimarina_/docking/ligand_006/out.pdbqt
+11,-8.651,1 - Estricnina_,./1 - Estricnina_/docking/ligand_008/out.pdbqt
+12,-8.65,1 - Estricnina_,./1 - Estricnina_/docking/ligand_004/out.pdbqt
+13,-8.004,2 - Esparteina_,./2 - Esparteina_/docking/ligand_004/out.pdbqt
+14,-7.998,2 - Esparteina_,./2 - Esparteina_/docking/ligand_007/out.pdbqt
+15,-7.892,7 -Galantamina_,./7 -Galantamina_/docking/ligand_004/out.pdbqt
+16,-7.691,7 -Galantamina_,./7 -Galantamina_/docking/ligand_009/out.pdbqt
+17,-6.467,11 - Anatoxina A,./11 - Anatoxina A/docking/ligand_005/out.pdbqt
+18,-6.467,11 - Anatoxina A,./11 - Anatoxina A/docking/ligand_003/out.pdbqt
+19,-6.396,4 - Esquisandrina_,./4 - Esquisandrina_/docking/ligand_003/out.pdbqt
+20,-6.391,4 - Esquisandrina_,./4 - Esquisandrina_/docking/ligand_001/out.pdbqt
+21,-4.816,12 - Alicina_,./12 - Alicina_/docking/ligand_004/out.pdbqt
+22,-4.717,12 - Alicina_,./12 - Alicina_/docking/ligand_001/out.pdbqt

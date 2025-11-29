@@ -1,0 +1,53 @@
+rank,score,molecule,path
+1,-10.821,5_coptisine,./5_coptisine/docking/ligand_08/out.pdbqt
+2,-10.821,5_coptisine,./5_coptisine/docking/ligand_09/out.pdbqt
+3,-10.353,4_chelirubine,./4_chelirubine/docking/ligand_04/out.pdbqt
+4,-10.349,12_sanguinarine,./12_sanguinarine/docking/ligand_08/out.pdbqt
+5,-10.349,4_chelirubine,./4_chelirubine/docking/ligand_03/out.pdbqt
+6,-10.345,12_sanguinarine,./12_sanguinarine/docking/ligand_03/out.pdbqt
+7,-9.978,9_protoberberine,./9_protoberberine/docking/ligand_04/out.pdbqt
+8,-9.977,9_protoberberine,./9_protoberberine/docking/ligand_05/out.pdbqt
+9,-9.567,3_chelilutine,./3_chelilutine/docking/ligand_05/out.pdbqt
+10,-9.559,13_sanguirubine,./13_sanguirubine/docking/ligand_01/out.pdbqt
+11,-9.549,2_chelerythrine,./2_chelerythrine/docking/ligand_02/out.pdbqt
+12,-9.541,2_chelerythrine,./2_chelerythrine/docking/ligand_05/out.pdbqt
+13,-9.534,13_sanguirubine,./13_sanguirubine/docking/ligand_02/out.pdbqt
+14,-9.534,3_chelilutine,./3_chelilutine/docking/ligand_01/out.pdbqt
+15,-9.396,10  - Bicuculina_,./10  - Bicuculina_/docking/ligand_003/out.pdbqt
+16,-9.393,10  - Bicuculina_,./10  - Bicuculina_/docking/ligand_009/out.pdbqt
+17,-9.281,9 - Caroteno_b,./9 - Caroteno_b/docking/ligand_004/out.pdbqt
+18,-9.243,9 - Caroteno_b,./9 - Caroteno_b/docking/ligand_007/out.pdbqt
+19,-9.119,6 - Huperzina A_,./6 - Huperzina A_/docking/ligand_001/out.pdbqt
+20,-9.088,6 - Huperzina A_,./6 - Huperzina A_/docking/ligand_002/out.pdbqt
+21,-8.965,8 - Chaconina_a,./8 - Chaconina_a/docking/ligand_004/out.pdbqt
+22,-8.957,1_berberine,./1_berberine/docking/ligand_05/out.pdbqt
+23,-8.955,1_berberine,./1_berberine/docking/ligand_09/out.pdbqt
+24,-8.952,8 - Chaconina_a,./8 - Chaconina_a/docking/ligand_009/out.pdbqt
+25,-8.925,3- Silimarina_,./3- Silimarina_/docking/ligand_007/out.pdbqt
+26,-8.922,3- Silimarina_,./3- Silimarina_/docking/ligand_006/out.pdbqt
+27,-8.804,7_galanthamine,./7_galanthamine/docking/ligand_02/out.pdbqt
+28,-8.675,11_sanguilutine,./11_sanguilutine/docking/ligand_03/out.pdbqt
+29,-8.651,1 - Estricnina_,./1 - Estricnina_/docking/ligand_008/out.pdbqt
+30,-8.65,1 - Estricnina_,./1 - Estricnina_/docking/ligand_004/out.pdbqt
+31,-8.649,11_sanguilutine,./11_sanguilutine/docking/ligand_07/out.pdbqt
+32,-8.537,14_sarcophine,./14_sarcophine/docking/ligand_09/out.pdbqt
+33,-8.523,14_sarcophine,./14_sarcophine/docking/ligand_08/out.pdbqt
+34,-8.319,10_rotenone,./10_rotenone/docking/ligand_02/out.pdbqt
+35,-8.31,10_rotenone,./10_rotenone/docking/ligand_05/out.pdbqt
+36,-8.004,2 - Esparteina_,./2 - Esparteina_/docking/ligand_004/out.pdbqt
+37,-7.998,2 - Esparteina_,./2 - Esparteina_/docking/ligand_007/out.pdbqt
+38,-7.892,7 -Galantamina_,./7 -Galantamina_/docking/ligand_004/out.pdbqt
+39,-7.691,7 -Galantamina_,./7 -Galantamina_/docking/ligand_009/out.pdbqt
+40,-7.367,7_galanthamine,./7_galanthamine/docking/ligand_05/out.pdbqt
+41,-7.294,6_cytisine,./6_cytisine/docking/ligand_10/out.pdbqt
+42,-7.287,6_cytisine,./6_cytisine/docking/ligand_08/out.pdbqt
+43,-7.277,15_suberogorgin,./15_suberogorgin/docking/ligand_06/out.pdbqt
+44,-7.064,15_suberogorgin,./15_suberogorgin/docking/ligand_05/out.pdbqt
+45,-6.924,8_isatin,./8_isatin/docking/ligand_05/out.pdbqt
+46,-6.924,8_isatin,./8_isatin/docking/ligand_07/out.pdbqt
+47,-6.467,11 - Anatoxina A,./11 - Anatoxina A/docking/ligand_005/out.pdbqt
+48,-6.467,11 - Anatoxina A,./11 - Anatoxina A/docking/ligand_003/out.pdbqt
+49,-6.396,4 - Esquisandrina_,./4 - Esquisandrina_/docking/ligand_003/out.pdbqt
+50,-6.391,4 - Esquisandrina_,./4 - Esquisandrina_/docking/ligand_001/out.pdbqt
+51,-4.816,12 - Alicina_,./12 - Alicina_/docking/ligand_004/out.pdbqt
+52,-4.717,12 - Alicina_,./12 - Alicina_/docking/ligand_001/out.pdbqt
