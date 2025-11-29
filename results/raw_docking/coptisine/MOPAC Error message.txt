@@ -1,0 +1,2 @@
+
+          MOPAC input data-set file: "coptise" does not exist.

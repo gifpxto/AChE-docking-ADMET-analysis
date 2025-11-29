@@ -1,0 +1,118 @@
+REMARK  15 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C26_41 
+REMARK    2  A    between atoms: O1_1  and  C28_43 
+REMARK    3  A    between atoms: O3_3  and  C29_44 
+REMARK    4  A    between atoms: O3_3  and  C34_49 
+REMARK    5  A    between atoms: O4_4  and  C30_45 
+REMARK    6  A    between atoms: O5_5  and  C32_47 
+REMARK    7  A    between atoms: O5_5  and  C36_51 
+REMARK    8  A    between atoms: O7_7  and  C33_48 
+REMARK    9  A    between atoms: O9_9  and  C35_50 
+REMARK   10  A    between atoms: O10_10  and  C37_52 
+REMARK   11  A    between atoms: O11_11  and  C39_54 
+REMARK   12  A    between atoms: O12_12  and  C40_55 
+REMARK   13  A    between atoms: O13_13  and  C41_56 
+REMARK   14  A    between atoms: O14_14  and  C43_58 
+REMARK   15  A    between atoms: C31_46  and  C33_48 
+ROOT
+ATOM      1  O2  HET A   1       3.704   2.559   0.908  0.00  0.00    -0.341 OA
+ATOM      2  C28 HET A   1       2.569   3.379   0.718  0.00  0.00     0.282 C 
+ATOM      3  C29 HET A   1       2.357   4.524   1.744  0.00  0.00     0.209 C 
+ATOM      4  C30 HET A   1       3.561   4.882   2.631  0.00  0.00     0.180 C 
+ATOM      5  C31 HET A   1       4.876   3.194   1.380  0.00  0.00     0.178 C 
+ATOM      6  C32 HET A   1       4.539   3.718   2.786  0.00  0.00     0.184 C 
+ENDROOT
+BRANCH   2   7
+ATOM      7  O1  HET A   1       1.444   2.559   0.908  0.00  0.00    -0.346 OA
+BRANCH   7   8
+ATOM      8  C26 HET A   1       1.581   1.185   0.560  0.00  0.00     0.125 C 
+ATOM      9  C24 HET A   1       1.987   1.017  -0.909  0.00  0.00     0.063 C 
+ATOM     10  C18 HET A   1       1.902  -0.425  -1.309  0.00  0.00    -0.065 C 
+ATOM     11  C12 HET A   1       0.598  -1.133  -1.021  0.00  0.00    -0.008 C 
+ATOM     12  C22 HET A   1       2.939  -0.999  -1.930  0.00  0.00    -0.027 C 
+ATOM     13  C8  HET A   1       0.779  -2.676  -1.164  0.00  0.00     0.003 C 
+ATOM     14  C20 HET A   1       0.156  -0.853   0.439  0.00  0.00     0.014 C 
+ATOM     15  C23 HET A   1      -0.452  -0.589  -2.005  0.00  0.00     0.016 C 
+ATOM     16  C5  HET A   1       1.540  -3.009  -2.471  0.00  0.00     0.000 C 
+ATOM     17  C11 HET A   1      -0.571  -3.416  -1.066  0.00  0.00     0.005 C 
+ATOM     18  C3  HET A   1       1.625  -4.527  -2.609  0.00  0.00     0.000 C 
+ATOM     19  C14 HET A   1       2.956  -2.412  -2.397  0.00  0.00     0.031 C 
+ATOM     20  C1  HET A   1       0.212  -5.181  -2.669  0.00  0.00    -0.025 C 
+ATOM     21  C6  HET A   1       2.336  -5.095  -3.845  0.00  0.00     0.024 C 
+ATOM     22  C2  HET A   1       0.594  -6.662  -2.930  0.00  0.00     0.017 C 
+ATOM     23  C9  HET A   1      -0.454  -4.930  -1.311  0.00  0.00     0.007 C 
+ATOM     24  C13 HET A   1      -0.651  -4.616  -3.801  0.00  0.00     0.012 C 
+ATOM     25  C4  HET A   1       1.845  -6.565  -3.886  0.00  0.00     0.061 C 
+ATOM     26  C7  HET A   1      -0.441  -7.539  -3.668  0.00  0.00     0.008 C 
+ATOM     27  N   HET A   1       1.288  -6.908  -5.208  0.00  0.00    -0.297 N 
+ATOM     28  C10 HET A   1       0.284  -7.981  -4.969  0.00  0.00     0.060 C 
+ATOM     29  C16 HET A   1       2.248  -7.302  -6.250  0.00  0.00     0.088 C 
+ATOM     30  C15 HET A   1      -0.598  -8.070  -6.221  0.00  0.00     0.020 C 
+ATOM     31  C21 HET A   1       0.294  -8.445  -7.416  0.00  0.00     0.006 C 
+ATOM     32  C19 HET A   1       1.446  -7.431  -7.572  0.00  0.00    -0.000 C 
+ATOM     33  C27 HET A   1       2.384  -7.853  -8.704  0.00  0.00     0.009 C 
+ATOM     34  C17 HET A   1      -0.868  -8.746  -2.836  0.00  0.00     0.010 C 
+ATOM     35  C25 HET A   1       0.170   0.632   0.797  0.00  0.00     0.033 C 
+ENDBRANCH   7   8
+ENDBRANCH   2   7
+BRANCH   3  36
+ATOM     36  O3  HET A   1       2.141   5.655   0.908  0.00  0.00    -0.339 OA
+BRANCH  36  37
+ATOM     37  C34 HET A   1       1.335   6.647   1.485  0.00  0.00     0.282 C 
+ATOM     38  O6  HET A   1       0.009   6.162   1.326  0.00  0.00    -0.344 OA
+ATOM     39  C38 HET A   1      -1.012   7.016   1.766  0.00  0.00     0.149 C 
+ATOM     40  C40 HET A   1      -0.928   8.425   1.132  0.00  0.00     0.174 C 
+ATOM     41  C44 HET A   1      -1.042   7.105   3.288  0.00  0.00     0.041 C 
+ATOM     42  C37 HET A   1       0.512   8.968   1.021  0.00  0.00     0.179 C 
+ATOM     43  C35 HET A   1       1.517   7.886   0.583  0.00  0.00     0.202 C 
+BRANCH  40  44
+ATOM     44  O12 HET A   1      -1.453   8.257  -0.168  0.00  0.00    -0.388 OA
+ATOM     45  H12 HET A   1      -1.583   9.118  -0.611  0.00  0.00     0.211 HD
+ENDBRANCH  40  44
+BRANCH  42  46
+ATOM     46  O10 HET A   1       0.957   9.359   2.310  0.00  0.00    -0.387 OA
+ATOM     47 2H10 HET A   1       0.516  10.178   2.602  0.00  0.00     0.211 HD
+ENDBRANCH  42  46
+BRANCH  43  48
+ATOM     48  O9  HET A   1       2.823   8.387   0.680  0.00  0.00    -0.385 OA
+ATOM     49  H9  HET A   1       2.992   8.723   1.589  0.00  0.00     0.211 HD
+ENDBRANCH  43  48
+ENDBRANCH  36  37
+ENDBRANCH   3  36
+BRANCH   5  50
+ATOM     50  C33 HET A   1       5.941   2.086   1.388  0.00  0.00     0.191 C 
+BRANCH  50  51
+ATOM     51  O7  HET A   1       7.105   2.517   0.724  0.00  0.00    -0.394 OA
+ATOM     52  H72 HET A   1       7.427   3.363   1.113  0.00  0.00     0.210 HD
+ENDBRANCH  50  51
+ENDBRANCH   5  50
+BRANCH   4  53
+ATOM     53  O4  HET A   1       3.010   5.241   3.885  0.00  0.00    -0.387 OA
+ATOM     54  H42 HET A   1       3.682   5.146   4.592  0.00  0.00     0.211 HD
+ENDBRANCH   4  53
+BRANCH   6  55
+ATOM     55  O5  HET A   1       5.675   4.056   3.544  0.00  0.00    -0.341 OA
+BRANCH  55  56
+ATOM     56  C36 HET A   1       6.363   5.238   3.219  0.00  0.00     0.282 C 
+ATOM     57  O8  HET A   1       6.551   5.210   1.818  0.00  0.00    -0.344 OA
+ATOM     58  C42 HET A   1       7.305   6.255   1.255  0.00  0.00     0.149 C 
+ATOM     59  C43 HET A   1       8.702   6.342   1.907  0.00  0.00     0.174 C 
+ATOM     60  C45 HET A   1       6.556   7.577   1.317  0.00  0.00     0.041 C 
+ATOM     61  C41 HET A   1       8.674   6.216   3.445  0.00  0.00     0.179 C 
+ATOM     62  C39 HET A   1       7.726   5.100   3.931  0.00  0.00     0.202 C 
+BRANCH  59  63
+ATOM     63  O14 HET A   1       9.383   5.224   1.380  0.00  0.00    -0.388 OA
+ATOM     64  H14 HET A   1      10.335   5.244   1.598  0.00  0.00     0.211 HD
+ENDBRANCH  59  63
+BRANCH  61  65
+ATOM     65  O13 HET A   1       8.126   7.412   3.975  0.00  0.00    -0.387 OA
+ATOM     66  H13 HET A   1       8.828   8.056   4.186  0.00  0.00     0.211 HD
+ENDBRANCH  61  65
+BRANCH  62  67
+ATOM     67  O11 HET A   1       7.556   5.187   5.318  0.00  0.00    -0.385 OA
+ATOM     68  H11 HET A   1       7.352   6.115   5.579  0.00  0.00     0.211 HD
+ENDBRANCH  62  67
+ENDBRANCH  55  56
+ENDBRANCH   6  55
+TORSDOF 15

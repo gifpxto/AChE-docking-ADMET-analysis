@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<molecule xmlns="http://www.xml-cml.org/schema" xmlns:cml="http://www.xml-cml.org/dict/cml" xmlns:units="http://www.xml-cml.org/units/units" xmlns:xsd="http://www.w3c.org/2001/XMLSchema" xmlns:iupac="http://www.iupac.org">
+  <name>65036</name>
+  <atomArray>
+    <atom id="a1" elementType="S" x3="-0.824134" y3="1.22352" z3="-0.465881" />
+    <atom id="a2" elementType="S" x3="0.448782" y3="0.000102" z3="0.736363" />
+    <atom id="a3" elementType="O" x3="-0.809052" y3="2.36092" z3="0.567229" />
+    <atom id="a4" elementType="C" x3="-2.3662" y3="0.501941" z3="0.192636" />
+    <atom id="a5" elementType="C" x3="1.92365" y3="0.385957" z3="-0.254772" />
+    <atom id="a6" elementType="C" x3="-2.66542" y3="-0.785559" z3="-0.519325" />
+    <atom id="a7" elementType="C" x3="3.11463" y3="-0.288617" z3="0.361051" />
+    <atom id="a8" elementType="C" x3="-2.78373" y3="-1.94478" z3="0.134235" />
+    <atom id="a9" elementType="C" x3="3.85389" y3="-1.17741" z3="-0.309465" />
+    <atom id="a10" elementType="H" x3="-3.20054" y3="1.20884" z3="0.000825" />
+    <atom id="a11" elementType="H" x3="-2.2896" y3="0.354249" z3="1.29294" />
+    <atom id="a12" elementType="H" x3="1.76802" y3="0.037106" z3="-1.29896" />
+    <atom id="a13" elementType="H" x3="2.10786" y3="1.48075" z3="-0.238083" />
+    <atom id="a14" elementType="H" x3="-2.7911" y3="-0.771242" z3="-1.59794" />
+    <atom id="a15" elementType="H" x3="3.3841" y3="-0.043323" z3="1.38433" />
+    <atom id="a16" elementType="H" x3="-3.00198" y3="-2.8557" z3="-0.413503" />
+    <atom id="a17" elementType="H" x3="-2.66546" y3="-1.99814" z3="1.2122" />
+    <atom id="a18" elementType="H" x3="4.70867" y3="-1.64262" z3="0.170637" />
+    <atom id="a19" elementType="H" x3="3.61856" y3="-1.44789" z3="-1.33419" />
+  </atomArray>
+  <bondArray>
+    <bond atomRefs2="a1 a2" order="1" />
+    <bond atomRefs2="a1 a3" order="2" />
+    <bond atomRefs2="a1 a4" order="1" />
+    <bond atomRefs2="a2 a5" order="1" />
+    <bond atomRefs2="a4 a6" order="1" />
+    <bond atomRefs2="a4 a10" order="1" />
+    <bond atomRefs2="a4 a11" order="1" />
+    <bond atomRefs2="a5 a7" order="1" />
+    <bond atomRefs2="a5 a12" order="1" />
+    <bond atomRefs2="a5 a13" order="1" />
+    <bond atomRefs2="a6 a8" order="2" />
+    <bond atomRefs2="a6 a14" order="1" />
+    <bond atomRefs2="a7 a9" order="2" />
+    <bond atomRefs2="a7 a15" order="1" />
+    <bond atomRefs2="a8 a16" order="1" />
+    <bond atomRefs2="a8 a17" order="1" />
+    <bond atomRefs2="a9 a18" order="1" />
+    <bond atomRefs2="a9 a19" order="1" />
+  </bondArray>
+  <dataMap>
+    <scalar name="PUBCHEM_ATOM_DEF_STEREO_COUNT" dataType="xsd:string">0</scalar>
+    <scalar name="PUBCHEM_ATOM_UDEF_STEREO_COUNT" dataType="xsd:string">1</scalar>
+    <scalar name="PUBCHEM_BOND_DEF_STEREO_COUNT" dataType="xsd:string">0</scalar>
+    <scalar name="PUBCHEM_BOND_UDEF_STEREO_COUNT" dataType="xsd:string">0</scalar>
+    <scalar name="PUBCHEM_CACTVS_TAUTO_COUNT" dataType="xsd:string">1</scalar>
+    <scalar name="PUBCHEM_COMPONENT_COUNT" dataType="xsd:string">1</scalar>
+    <scalar name="PUBCHEM_COMPOUND_CID" dataType="xsd:string">65036</scalar>
+    <scalar name="PUBCHEM_CONFORMER_DIVERSEORDER" dataType="xsd:string">1
+188
+9
+13
+111
+84
+16
+185
+64
+10
+8
+141
+2
+172
+181
+67
+18
+60
+170
+4
+127
+162
+133
+65
+82
+59
+176
+12
+150
+167
+48
+137
+190
+85
+41
+119
+3
+25
+11
+57
+38
+171
+95
+20
+153
+42
+145
+7
+27
+103
+161
+186
+104
+131
+74
+101
+31
+163
+173
+126
+26
+108
+106
+123
+116
+35
+51
+19
+34
+96
+143
+15
+58
+135
+155
+6
+98
+142
+187
+30
+191
+100
+192
+21
+182
+54
+158
+49
+66
+168
+76
+24
+52
+183
+151
+32
+89
+174
+29
+152
+28
+164
+43
+5
+184
+71
+56
+157
+144
+136
+73
+169
+193
+87
+118
+160
+115
+78
+180
+132
+22
+166
+149
+79
+63
+148
+45
+46
+69
+189
+14
+37
+177
+128
+86
+102
+94
+105
+68
+125
+93
+140
+83
+175
+113
+23
+112
+81
+124
+39
+17
+146
+110
+99
+33
+70
+179
+75
+72
+80
+47
+107
+97
+44
+159
+156
+129
+154
+91
+165
+53
+134
+120
+90
+178
+50
+109
+88
+92
+147
+55
+117
+121
+114
+77
+36
+122
+139
+130
+40
+61
+138
+62</scalar>
+    <scalar name="PUBCHEM_CONFORMER_ID" dataType="xsd:string">0000FE0C00000001</scalar>
+    <scalar name="PUBCHEM_CONFORMER_RMSD" dataType="xsd:string">0.6</scalar>
+    <scalar name="PUBCHEM_COORDINATE_TYPE" dataType="xsd:string">2
+5
+10</scalar>
+    <scalar name="PUBCHEM_EFFECTIVE_ROTOR_COUNT" dataType="xsd:string">5</scalar>
+    <scalar name="PUBCHEM_FEATURE_SELFOVERLAP" dataType="xsd:string">10.149</scalar>
+    <scalar name="PUBCHEM_HEAVY_ATOM_COUNT" dataType="xsd:string">9</scalar>
+    <scalar name="PUBCHEM_ISOTOPIC_ATOM_COUNT" dataType="xsd:string">0</scalar>
+    <scalar name="PUBCHEM_MMFF94_ENERGY" dataType="xsd:string">2.55</scalar>
+    <scalar name="PUBCHEM_MMFF94_PARTIAL_CHARGES" dataType="xsd:string">15
+1 0.35
+14 0.15
+15 0.15
+16 0.15
+17 0.15
+18 0.15
+19 0.15
+2 -0.28
+3 -0.5
+4 0.33
+5 0.37
+6 -0.29
+7 -0.29
+8 -0.3
+9 -0.3</scalar>
+    <scalar name="PUBCHEM_PHARMACOPHORE_FEATURES" dataType="xsd:string">2
+1 8 hydrophobe
+1 9 hydrophobe</scalar>
+    <scalar name="PUBCHEM_SHAPE_FINGERPRINT" dataType="xsd:string">10149128 76 9006789691018156641
+12932764 1 17749102245353203400
+14128692 85 18186803625124520085
+14251710 61 18409454716759074754
+177051 138 18411699906807696798
+18342897 55 15430042058601945378
+18342897 69 18336540513184560946
+20211469 16 18409731798120956399
+20211469 26 18131345315328977599
+20281407 28 18343582940910690370
+20653085 51 8357991003734958613
+20711983 138 18273210919920802137
+21061003 4 16917345926845628856
+449060 23 18335422339855415918
+528716 315 18186522102855761187</scalar>
+    <scalar name="PUBCHEM_SHAPE_MULTIPOLES" dataType="xsd:string">187.05
+6.65
+1.9
+0.75
+4.26
+0.41
+-0.01
+-4.01
+-0.41
+-1.28
+0.06
+0.02
+-0.01
+0.13</scalar>
+    <scalar name="PUBCHEM_SHAPE_SELFOVERLAP" dataType="xsd:string">314.733</scalar>
+    <scalar name="PUBCHEM_SHAPE_VOLUME" dataType="xsd:string">126.9</scalar>
+    <scalar name="fileName" dataType="xsd:string">/mnt/c/users/pichau/downloads/lista 1 Andreson-20250825T025544Z-1-001/lista 1 Andreson/12 - Alicina_/Conformer3D_COMPOUND_CID_65036.sdf</scalar>
+    <hdf5data name="modelView" dataType="xsd:double" ndims="2" dims="4 4">molecule/dataMap/modelView</hdf5data>
+    <scalar name="name" dataType="xsd:string">65036</scalar>
+    <hdf5data name="projection" dataType="xsd:double" ndims="2" dims="4 4">molecule/dataMap/projection</hdf5data>
+  </dataMap>
+</molecule>

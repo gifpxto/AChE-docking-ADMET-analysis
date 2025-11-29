@@ -1,0 +1,43 @@
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O5_5  and  C18_24 
+REMARK    2  A    between atoms: O6_6  and  C19_25 
+REMARK    3  A    between atoms: C10_16  and  C16_22 
+ROOT
+ATOM      1  O1  HET A   1       0.188   0.174  -1.271  0.00  0.00    -0.338 OA
+ATOM      2  O2  HET A   1       2.984   0.174  -1.271  0.00  0.00    -0.343 OA
+ATOM      3  O3  HET A   1      -2.846   3.655  -1.271  0.00  0.00    -0.338 OA
+ATOM      4  O4  HET A   1      -0.315  -0.594  -5.238  0.00  0.00    -0.293 OA
+ATOM      5  C1  HET A   1       1.181  -0.713  -3.393  0.00  0.00     0.126 C 
+ATOM      6  C2  HET A   1       0.876  -0.909  -1.909  0.00  0.00     0.167 C 
+ATOM      7  C3  HET A   1      -0.645   0.931  -2.009  0.00  0.00     0.092 A 
+ATOM      8  C4  HET A   1       2.296   0.258  -3.608  0.00  0.00    -0.001 A 
+ATOM      9  C5  HET A   1      -0.065  -0.209  -4.122  0.00  0.00     0.175 C 
+ATOM     10  C6  HET A   1       2.181  -0.986  -1.110  0.00  0.00     0.201 C 
+ATOM     11  C7  HET A   1      -1.331   1.921  -1.322  0.00  0.00     0.016 A 
+ATOM     12  C8  HET A   1      -0.861   0.765  -3.391  0.00  0.00     0.049 A 
+ATOM     13  C9  HET A   1      -1.315   2.358   0.100  0.00  0.00     0.078 A 
+ATOM     14  C10 HET A   1      -2.364   3.508   0.101  0.00  0.00     0.155 A 
+ATOM     15  C11 HET A   1      -2.242   2.718  -2.039  0.00  0.00     0.082 A 
+ATOM     16  C12 HET A   1       3.117   0.641  -2.542  0.00  0.00     0.082 A 
+ATOM     17  C13 HET A   1      -1.793   1.567  -4.061  0.00  0.00     0.017 A 
+ATOM     18  C14 HET A   1       2.533   0.810  -4.869  0.00  0.00     0.043 A 
+ATOM     19  C15 HET A   1      -2.504   2.562  -3.399  0.00  0.00     0.035 A 
+ATOM     20  C17 HET A   1       4.146   1.577  -2.693  0.00  0.00     0.070 A 
+ATOM     21  C18 HET A   1       3.551   1.740  -5.039  0.00  0.00     0.105 A 
+ATOM     22  C19 HET A   1       4.358   2.125  -3.954  0.00  0.00     0.107 A 
+ENDROOT
+BRANCH  14  23
+ATOM     23  C16 HET A   1      -3.542   3.194   0.976  0.00  0.00    -0.051 C 
+ATOM     24  C20 HET A   1      -4.672   2.486   0.317  0.00  0.00     0.041 C 
+ATOM     25  C21 HET A   1      -3.540   3.530   2.268  0.00  0.00     0.010 C 
+ENDBRANCH  14  23
+BRANCH  21  26
+ATOM     26  O5  HET A   1       3.794   2.192  -6.314  0.00  0.00    -0.347 OA
+ATOM     27  C22 HET A   1       3.336   3.530  -6.508  0.00  0.00     0.203 C 
+ENDBRANCH  21  26
+BRANCH  22  28
+ATOM     28  O6  HET A   1       5.302   3.110  -4.033  0.00  0.00    -0.346 OA
+ATOM     29  C23 HET A   1       6.358   2.827  -4.950  0.00  0.00     0.203 C 
+ENDBRANCH  22  28
+TORSDOF 3

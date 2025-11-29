@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<molecule xmlns="http://www.xml-cml.org/schema" xmlns:cml="http://www.xml-cml.org/dict/cml" xmlns:units="http://www.xml-cml.org/units/units" xmlns:xsd="http://www.w3c.org/2001/XMLSchema" xmlns:iupac="http://www.iupac.org">
+  <name>(1R,9S)-7-aza-11-azoniatricyclo[7.3.1.02,7]trideca-2,4-dien-6-one</name>
+  <atomArray>
+    <atom id="a1" elementType="O" x3="-2.12754" y3="-2.11508" z3="0.424591" />
+    <atom id="a2" elementType="N" x3="-0.613096" y3="-0.539082" z3="-0.160211" />
+    <atom id="a3" elementType="N" x3="2.41041" y3="0.445942" z3="1.22255" />
+    <atom id="a4" elementType="C" x3="1.82953" y3="-1.12695" z3="-0.740245" />
+    <atom id="a5" elementType="C" x3="1.12795" y3="1.28115" z3="-0.8097" />
+    <atom id="a6" elementType="C" x3="1.84736" y3="0.161228" z3="-1.59036" />
+    <atom id="a7" elementType="C" x3="0.369305" y3="-1.58973" z3="-0.52509" />
+    <atom id="a8" elementType="C" x3="2.55713" y3="-0.922918" z3="0.613" />
+    <atom id="a9" elementType="C" x3="1.94404" y3="1.6461" z3="0.448147" />
+    <atom id="a10" elementType="C" x3="-0.275659" y3="0.848701" z3="-0.40319" />
+    <atom id="a11" elementType="C" x3="-1.22606" y3="1.84646" z3="-0.18861" />
+    <atom id="a12" elementType="C" x3="-1.84941" y3="-0.942808" z3="0.259041" />
+    <atom id="a13" elementType="C" x3="-2.50017" y3="1.51989" z3="0.248371" />
+    <atom id="a14" elementType="C" x3="-2.81837" y3="0.141188" z3="0.476015" />
+    <atom id="a15" elementType="H" x3="2.35309" y3="-1.91742" z3="-1.28305" />
+    <atom id="a16" elementType="H" x3="1.06391" y3="2.16403" z3="-1.45058" />
+    <atom id="a17" elementType="H" x3="1.33826" y3="-0.014667" z3="-2.54158" />
+    <atom id="a18" elementType="H" x3="2.87558" y3="0.454518" z3="-1.8175" />
+    <atom id="a19" elementType="H" x3="0.018535" y3="-2.04325" z3="-1.45655" />
+    <atom id="a20" elementType="H" x3="0.361683" y3="-2.37014" z3="0.241614" />
+    <atom id="a21" elementType="H" x3="2.37958" y3="-1.77805" z3="1.27041" />
+    <atom id="a22" elementType="H" x3="3.63356" y3="-0.82429" z3="0.44661" />
+    <atom id="a23" elementType="H" x3="2.90216" y3="2.08836" z3="0.161297" />
+    <atom id="a24" elementType="H" x3="1.39145" y3="2.36078" z3="1.06368" />
+    <atom id="a25" elementType="H" x3="-3.80138" y3="-0.177155" z3="0.807393" />
+    <atom id="a26" elementType="H" x3="-0.968696" y3="2.89067" z3="-0.351009" />
+    <atom id="a27" elementType="H" x3="-3.23495" y3="2.30198" z3="0.419857" />
+    <atom id="a28" elementType="H" x3="1.40541" y3="0.214741" z3="1.18287" />
+    <atom id="a29" elementType="H" x3="3.19257" y3="0.605823" z3="0.567209" />
+  </atomArray>
+  <bondArray>
+    <bond atomRefs2="a1 a12" order="2" />
+    <bond atomRefs2="a2 a7" order="1" />
+    <bond atomRefs2="a2 a10" order="1" />
+    <bond atomRefs2="a2 a12" order="1" />
+    <bond atomRefs2="a3 a8" order="1" />
+    <bond atomRefs2="a3 a9" order="1" />
+    <bond atomRefs2="a14 a25" order="1" />
+    <bond atomRefs2="a4 a6" order="1" />
+    <bond atomRefs2="a4 a7" order="1" />
+    <bond atomRefs2="a4 a8" order="1" />
+    <bond atomRefs2="a4 a15" order="1" />
+    <bond atomRefs2="a5 a6" order="1" />
+    <bond atomRefs2="a5 a9" order="1" />
+    <bond atomRefs2="a5 a10" order="1" />
+    <bond atomRefs2="a5 a16" order="1" />
+    <bond atomRefs2="a6 a17" order="1" />
+    <bond atomRefs2="a6 a18" order="1" />
+    <bond atomRefs2="a7 a19" order="1" />
+    <bond atomRefs2="a7 a20" order="1" />
+    <bond atomRefs2="a8 a21" order="1" />
+    <bond atomRefs2="a8 a22" order="1" />
+    <bond atomRefs2="a9 a23" order="1" />
+    <bond atomRefs2="a9 a24" order="1" />
+    <bond atomRefs2="a10 a11" order="2" />
+    <bond atomRefs2="a11 a13" order="1" />
+    <bond atomRefs2="a11 a26" order="1" />
+    <bond atomRefs2="a12 a14" order="1" />
+    <bond atomRefs2="a13 a14" order="2" />
+    <bond atomRefs2="a13 a27" order="1" />
+    <bond atomRefs2="a3 a28" order="1" />
+    <bond atomRefs2="a3 a29" order="1" />
+  </bondArray>
+  <dataMap>
+    <scalar name="PUBCHEM_ATOM_DEF_STEREO_COUNT" dataType="xsd:string">2</scalar>
+    <scalar name="PUBCHEM_ATOM_UDEF_STEREO_COUNT" dataType="xsd:string">0</scalar>
+    <scalar name="PUBCHEM_BOND_DEF_STEREO_COUNT" dataType="xsd:string">0</scalar>
+    <scalar name="PUBCHEM_BOND_UDEF_STEREO_COUNT" dataType="xsd:string">0</scalar>
+    <scalar name="PUBCHEM_CACTVS_TAUTO_COUNT" dataType="xsd:string">1</scalar>
+    <scalar name="PUBCHEM_COMPONENT_COUNT" dataType="xsd:string">1</scalar>
+    <scalar name="PUBCHEM_COMPOUND_CID" dataType="xsd:string">10235</scalar>
+    <scalar name="PUBCHEM_CONFORMER_DIVERSEORDER" dataType="xsd:string">1</scalar>
+    <scalar name="PUBCHEM_CONFORMER_ID" dataType="xsd:string">000027FB00000001</scalar>
+    <scalar name="PUBCHEM_CONFORMER_RMSD" dataType="xsd:string">0.4</scalar>
+    <scalar name="PUBCHEM_COORDINATE_TYPE" dataType="xsd:string">2
+5
+10</scalar>
+    <scalar name="PUBCHEM_EFFECTIVE_ROTOR_COUNT" dataType="xsd:string">1</scalar>
+    <scalar name="PUBCHEM_FEATURE_SELFOVERLAP" dataType="xsd:string">31.993</scalar>
+    <scalar name="PUBCHEM_HEAVY_ATOM_COUNT" dataType="xsd:string">14</scalar>
+    <scalar name="PUBCHEM_ISOTOPIC_ATOM_COUNT" dataType="xsd:string">0</scalar>
+    <scalar name="PUBCHEM_MMFF94_ENERGY" dataType="xsd:string">27.6782</scalar>
+    <scalar name="PUBCHEM_MMFF94_PARTIAL_CHARGES" dataType="xsd:string">16
+1 -0.57
+10 -0.03
+11 -0.15
+12 0.62
+13 -0.15
+14 -0.14
+2 -0.47
+25 0.36
+26 0.15
+27 0.15
+28 0.15
+3 -0.9
+5 0.14
+7 0.3
+8 0.27
+9 0.27</scalar>
+    <scalar name="PUBCHEM_PHARMACOPHORE_FEATURES" dataType="xsd:string">6
+1 1 acceptor
+1 3 cation
+1 3 donor
+6 2 10 11 12 13 14 rings
+6 2 4 5 6 7 10 rings
+6 3 4 5 6 8 9 rings</scalar>
+    <scalar name="PUBCHEM_SHAPE_FINGERPRINT" dataType="xsd:string">11680611 10 18040990760861639618
+12251169 10 18409157797137529056
+12326174 3 15357699716827508644
+12382932 28 18340483460528986953
+12423570 1 8276538113139728996
+12524768 44 18411425016047272117
+12696612 119 18410289237594511160
+13538477 17 18040723566872760015
+15775835 57 18410018727537386544
+15852999 172 18120342437997834621
+16945 1 18338520720577818213
+17804303 29 18267584611431530994
+17990270 104 18410016562878975126
+20361792 2 16298657292363901402
+20511035 2 18343300331904351838
+20588541 1 18053386500540293198
+20653091 64 17822292426619822702
+21501502 16 18411700997465444453
+232386 152 18334295323367937022
+2334 1 18266745855805254935
+23388829 49 17765985486989556743
+23419403 2 17329090087764386493
+23552423 10 18042979837736890069
+23559900 14 18054799386721858766
+2748010 2 18340211889857494231
+5084963 1 18270972236615537205
+5337951 7 17916311545414688772
+53812653 166 18125721179982213153
+7364860 26 18412269466868929900</scalar>
+    <scalar name="PUBCHEM_SHAPE_MULTIPOLES" dataType="xsd:string">272.28
+4.11
+1.97
+1.05
+1.33
+0.23
+0.03
+0.16
+0.7
+0.55
+0.02
+-0.79
+-0.09
+0.2</scalar>
+    <scalar name="PUBCHEM_SHAPE_SELFOVERLAP" dataType="xsd:string">589.542</scalar>
+    <scalar name="PUBCHEM_SHAPE_VOLUME" dataType="xsd:string">142.3</scalar>
+    <scalar name="fileName" dataType="xsd:string">/mnt/c/Users/Pichau/Downloads/lista 2 gilson/6_cytisine/cytisine.sdf</scalar>
+    <hdf5data name="modelView" dataType="xsd:double" ndims="2" dims="4 4">molecule/dataMap/modelView</hdf5data>
+    <scalar name="name" dataType="xsd:string">(1R,9S)-7-aza-11-azoniatricyclo[7.3.1.02,7]trideca-2,4-dien-6-one</scalar>
+    <hdf5data name="projection" dataType="xsd:double" ndims="2" dims="4 4">molecule/dataMap/projection</hdf5data>
+  </dataMap>
+</molecule>

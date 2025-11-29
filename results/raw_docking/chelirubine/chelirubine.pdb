@@ -1,0 +1,47 @@
+HEADER  data-set: chelirubine
+REMARK  MOPAC, Version: 22.0.6               Date: Oct 12 2025 20:02
+REMARK   3 HET = Not identified; C 21 H 16 N O 5    =    43 atoms res:    1
+HETATM    1  O1  HET A   1      -0.006   0.001  -0.018  1.0  -3.45      PROT O 
+HETATM    2  O2  HET A   1       2.225   0.001  -0.018  1.0  -3.10      PROT O 
+HETATM    3  O3  HET A   1       2.548   4.804  -0.018  1.0  -3.43      PROT O 
+HETATM    4  O4  HET A   1      -6.108   7.564   0.014  1.0  -3.28      PROT O 
+HETATM    5  O5  HET A   1      -4.975   9.496   0.004  1.0  -3.16      PROT O 
+HETATM    6  N   HET A   1      -2.472   3.471  -0.070  1.0  -0.33      PROT N 
+HETATM    7  C1  HET A   1      -1.926   4.760  -0.047  1.0   0.29      PROT C 
+HETATM    8  C2  HET A   1      -0.476   4.880  -0.035  1.0   0.87      PROT C 
+HETATM    9  C3  HET A   1       0.370   3.704  -0.022  1.0  -0.91      PROT C 
+HETATM   10  C4  HET A   1      -0.293   2.449  -0.015  1.0  -0.67      PROT C 
+HETATM   11  C5  HET A   1      -2.729   5.991  -0.039  1.0   0.24      PROT C 
+HETATM   12  C6  HET A   1      -2.052   7.258  -0.041  1.0  -0.21      PROT C 
+HETATM   13  C7  HET A   1      -1.684   2.368  -0.053  1.0   0.44      PROT C 
+HETATM   14  C8  HET A   1       0.437   1.267  -0.004  1.0   0.62      PROT C 
+HETATM   15  C9  HET A   1       0.099   6.171  -0.047  1.0  -1.88      PROT C 
+HETATM   16  C10 HET A   1       1.822   3.665  -0.016  1.0   3.18      PROT C 
+HETATM   17  C11 HET A   1      -0.654   7.314  -0.054  1.0  -0.65      PROT C 
+HETATM   18  C12 HET A   1      -4.165   6.068  -0.020  1.0  -2.59      PROT C 
+HETATM   19  C13 HET A   1       1.788   1.264  -0.003  1.0   2.24      PROT C 
+HETATM   20  C14 HET A   1      -2.743   8.495  -0.027  1.0  -1.67      PROT C 
+HETATM   21  C15 HET A   1       2.520   2.426  -0.015  1.0  -3.00      PROT C 
+HETATM   22  C16 HET A   1      -4.793   7.304  -0.008  1.0   1.86      PROT C 
+HETATM   23  C17 HET A   1      -3.906   3.152  -0.063  1.0  -3.01      PROT C 
+HETATM   24  C18 HET A   1      -4.107   8.465  -0.010  1.0   1.44      PROT C 
+HETATM   25  C19 HET A   1       1.114  -0.841  -0.014  1.0   1.81      PROT C 
+HETATM   26  C20 HET A   1      -6.263   8.960   0.019  1.0   1.64      PROT C 
+HETATM   27  C21 HET A   1       3.930   4.906  -0.025  1.0  -1.68      PROT C 
+HETATM   28  H7  HET A   1      -2.120   1.378  -0.177  1.0   2.13      PROT H 
+HETATM   29  H9  HET A   1       1.147   6.374  -0.054  1.0   1.92      PROT H 
+HETATM   30  H11 HET A   1      -0.144   8.274  -0.067  1.0   1.80      PROT H 
+HETATM   31  H12 HET A   1      -4.861   5.267  -0.005  1.0   1.76      PROT H 
+HETATM   32  H14 HET A   1      -2.221   9.445  -0.032  1.0   1.96      PROT H 
+HETATM   33  H15 HET A   1       3.600   2.363  -0.041  1.0   2.07      PROT H 
+HETATM   34 1H17 HET A   1      -4.379   3.555   0.858  1.0   1.98      PROT H 
+HETATM   35 2H17 HET A   1      -4.381   3.520  -0.997  1.0   1.97      PROT H 
+HETATM   36 3H17 HET A   1      -4.131   2.065  -0.037  1.0   1.86      PROT H 
+HETATM   37 1H19 HET A   1       1.109  -1.470  -0.926  1.0   1.58      PROT H 
+HETATM   38 2H19 HET A   1       1.105  -1.456   0.909  1.0   1.57      PROT H 
+HETATM   39 1H20 HET A   1      -6.794   9.271   0.941  1.0   1.59      PROT H 
+HETATM   40 2H20 HET A   1      -6.815   9.268  -0.893  1.0   1.58      PROT H 
+HETATM   41 1H21 HET A   1       4.347   4.441  -0.941  1.0   1.45      PROT H 
+HETATM   42 2H21 HET A   1       4.358   4.429   0.880  1.0   1.45      PROT H 
+HETATM   43 3H21 HET A   1       4.198   5.980  -0.019  1.0   1.71      PROT H 
+END

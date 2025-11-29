@@ -1,0 +1,10 @@
+receptor = receptor.pdbqt
+center_x = -26.000
+center_y = 23.305
+center_z = 0.000
+size_x = 68
+size_y = 75
+size_z = 60
+cpu = 4
+num_modes =20
+exhaustiveness = 32

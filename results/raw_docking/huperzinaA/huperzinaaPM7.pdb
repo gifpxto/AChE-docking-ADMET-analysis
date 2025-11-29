@@ -1,0 +1,41 @@
+HEADER  data-set: huperzinaaPM7
+REMARK  MOPAC, Version: 22.0.6               Date: Oct  6 2025 00:09
+REMARK   3 HET = Not identified; C 15 H 19 N 2 O    =    37 atoms res:    1
+HETATM    1  O   HET A   1      -0.279  -0.097  -0.343  1.0  -4.08      PROT O 
+HETATM    2  N1  HET A   1       5.899  -0.097  -0.343  1.0  -2.85      PROT N 
+HETATM    3  N2  HET A   1       1.415   1.377  -0.343  1.0  -4.97      PROT N 
+HETATM    4  C1  HET A   1       5.090   1.059  -1.025  1.0   2.24      PROT C 
+HETATM    5  C2  HET A   1       4.503   3.425  -0.903  1.0  -0.73      PROT C 
+HETATM    6  C3  HET A   1       5.435   2.373  -0.366  1.0  -1.38      PROT C 
+HETATM    7  C4  HET A   1       5.517   1.133  -2.503  1.0  -3.38      PROT C 
+HETATM    8  C5  HET A   1       3.648   0.710  -0.869  1.0  -3.82      PROT C 
+HETATM    9  C6  HET A   1       3.106   3.130  -0.315  1.0  -3.33      PROT C 
+HETATM   10  C7  HET A   1       2.730   1.691  -0.512  1.0   3.45      PROT C 
+HETATM   11  C8  HET A   1       4.915   2.365  -3.133  1.0   0.68      PROT C 
+HETATM   12  C9  HET A   1       4.464   3.392  -2.403  1.0  -2.39      PROT C 
+HETATM   13  C10 HET A   1       6.407   2.595   0.524  1.0  -1.03      PROT C 
+HETATM   14  C11 HET A   1       3.166  -0.593  -1.204  1.0  -0.29      PROT C 
+HETATM   15  C12 HET A   1       4.859   2.347  -4.617  1.0  -4.60      PROT C 
+HETATM   16  C13 HET A   1       1.861  -0.919  -1.049  1.0  -3.07      PROT C 
+HETATM   17  C14 HET A   1       0.895   0.047  -0.565  1.0   5.70      PROT C 
+HETATM   18  C15 HET A   1       6.719   3.913   1.131  1.0  -4.43      PROT C 
+HETATM   19 1H2  HET A   1       4.826   4.451  -0.579  1.0   1.77      PROT H 
+HETATM   20 1H4  HET A   1       5.184   0.232  -3.061  1.0   1.75      PROT H 
+HETATM   21 2H4  HET A   1       6.621   1.190  -2.613  1.0   1.70      PROT H 
+HETATM   22 1H6  HET A   1       2.358   3.810  -0.785  1.0   1.91      PROT H 
+HETATM   23 2H6  HET A   1       3.098   3.382   0.771  1.0   1.88      PROT H 
+HETATM   24  H9  HET A   1       4.033   4.279  -2.867  1.0   1.77      PROT H 
+HETATM   25 1H1  HET A   1       5.753  -0.984  -0.849  1.0   2.96      PROT H 
+HETATM   26 2H1  HET A   1       5.563  -0.215   0.628  1.0   3.04      PROT H 
+HETATM   27  H10 HET A   1       7.070   1.806   0.883  1.0   1.29      PROT H 
+HETATM   28  H11 HET A   1       3.859  -1.330  -1.614  1.0   1.39      PROT H 
+HETATM   29 2H2  HET A   1       0.737   2.094  -0.068  1.0   3.39      PROT H 
+HETATM   30 1H12 HET A   1       4.021   1.727  -4.977  1.0   1.75      PROT H 
+HETATM   31 2H12 HET A   1       5.778   1.947  -5.072  1.0   1.68      PROT H 
+HETATM   32 3H12 HET A   1       4.710   3.351  -5.048  1.0   1.79      PROT H 
+HETATM   33  H13 HET A   1       1.459  -1.906  -1.292  1.0   2.07      PROT H 
+HETATM   34 1H15 HET A   1       6.804   3.844   2.229  1.0   1.77      PROT H 
+HETATM   35 2H15 HET A   1       5.976   4.696   0.924  1.0   1.66      PROT H 
+HETATM   36 3H15 HET A   1       7.689   4.297   0.765  1.0   1.81      PROT H 
+HETATM   37 3H1  HET A   1       6.907   0.116  -0.331  1.0   2.92      PROT H 
+END

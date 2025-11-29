@@ -1,0 +1,23 @@
+HEADER  data-set: alicinaPM7
+REMARK  MOPAC, Version: 22.0.6               Date: Oct  6 2025 01:53
+REMARK   3 IPH = Phenol res:    1
+HETATM    1  S1  IPH A   1       0.119  -0.094   0.044  1.0  11.21      PROT S 
+HETATM    2  S2  IPH A   1       2.182  -0.094   0.044  1.0  -2.86      PROT S 
+HETATM    3  O   IPH A   1      -0.451   1.264   0.044  1.0  -7.47      PROT O 
+HETATM    4  C1  IPH A   1      -0.313  -0.722   1.726  1.0  -5.14      PROT C 
+HETATM    5  C2  IPH A   1       2.901   0.888   1.424  1.0  -3.09      PROT C 
+HETATM    6  C3  IPH A   1       0.187  -2.109   1.889  1.0  -1.16      PROT C 
+HETATM    7  C4  IPH A   1       4.254   0.320   1.664  1.0  -1.26      PROT C 
+HETATM    8  C5  IPH A   1       1.214  -2.425   2.679  1.0  -3.01      PROT C 
+HETATM    9  C6  IPH A   1       5.364   0.870   1.172  1.0  -2.98      PROT C 
+HETATM   10 1H1  IPH A   1      -1.419  -0.678   1.817  1.0   1.84      PROT H 
+HETATM   11 2H1  IPH A   1       0.047  -0.040   2.519  1.0   1.74      PROT H 
+HETATM   12 1H2  IPH A   1       2.930   1.957   1.130  1.0   1.76      PROT H 
+HETATM   13 2H2  IPH A   1       2.271   0.833   2.331  1.0   1.57      PROT H 
+HETATM   14  H3  IPH A   1      -0.355  -2.873   1.328  1.0   1.46      PROT H 
+HETATM   15  H4  IPH A   1       4.284  -0.584   2.275  1.0   1.48      PROT H 
+HETATM   16 1H5  IPH A   1       1.578  -3.435   2.799  1.0   1.46      PROT H 
+HETATM   17 2H5  IPH A   1       1.776  -1.715   3.264  1.0   1.45      PROT H 
+HETATM   18 1H6  IPH A   1       6.352   0.467   1.341  1.0   1.48      PROT H 
+HETATM   19 2H6  IPH A   1       5.379   1.759   0.558  1.0   1.51      PROT H 
+END

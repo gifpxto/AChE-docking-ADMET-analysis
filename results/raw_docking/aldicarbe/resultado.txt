@@ -1,0 +1,11 @@
+Rank de afinidade:
+ligand_05/out.pdbqt: -5.854 kcal/mol
+ligand_01/out.pdbqt: -5.833 kcal/mol
+ligand_07/out.pdbqt: -5.817 kcal/mol
+ligand_06/out.pdbqt: -5.719 kcal/mol
+ligand_03/out.pdbqt: -5.668 kcal/mol
+ligand_02/out.pdbqt: -5.667 kcal/mol
+ligand_08/out.pdbqt: -5.571 kcal/mol
+ligand_09/out.pdbqt: -5.558 kcal/mol
+ligand_04/out.pdbqt: -5.445 kcal/mol
+ligand_10/out.pdbqt: -5.162 kcal/mol
