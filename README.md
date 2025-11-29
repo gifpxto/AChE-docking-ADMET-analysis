@@ -67,7 +67,7 @@ Trabalho de Conclusão de Curso — 2025
 
 ## 📌 Como citar este repositório
 
-> *Incluiremos aqui a referência com DOI e link após publicação do repositório definitivo no GitHub/Zenodo.*
+> PEIXOTO FILHO, Gilson Julio; SILVA, Andreson Patrício da; SOUZA, Arthur Campos de. AChE-docking-ADMET-analysis (Version 1.0) [repositório de código-fonte]. Zenodo, 2025. DOI: 10.5281/zenodo.17763106
 
 ---
 
@@ -93,8 +93,8 @@ Este repositório está licenciado sob a **MIT License**, permitindo reuso acad�
 Para dúvidas, colaborações ou replicações:
 
 📩 gilson.filho@uft.edu.br  
-📩 andreson.silva@uft.edu.br
-📩 arthur.campos@uft.edu.br
+📩 andreson.silva@uft.edu.br  
+📩 arthur.campos@uft.edu.br  
 
 ---
 
